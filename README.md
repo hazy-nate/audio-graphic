@@ -1,1 +1,1 @@
-# audio-graphic
+# Audio Graphic
