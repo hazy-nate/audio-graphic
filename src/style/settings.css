@@ -1,0 +1,37 @@
+body{
+     background-color:#333;
+     margin:25px;
+     overflow:hidden;
+     padding:0;
+}
+button{
+     background-color:RGBA(0, 0, 0, 0);
+     border:2px solid WHITE;
+     border-radius:3px;
+     color:WHITE;
+     cursor:pointer;
+     font-family:Roboto;
+     font-size:14px;
+     padding:6px 14px;
+     text-transform:uppercase;
+     transition:0.4s;
+}
+button:hover{
+     background-color:RGBA(0, 0, 0, 0.3);
+}
+label{
+     color:WHITE;
+     font-family:Roboto;
+}
+
+
+#photo_path{
+     border:0px;
+     border-radius:3px;
+     background-color:#262626;
+     color:WHITE;
+     font-family:Roboto;
+     margin-bottom:20px;
+     padding:6px 13px;
+     width:80%;
+}
